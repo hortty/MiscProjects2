@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Matrix multiplication
+
 void encerra()
 {
 	printf("Memoria insuficiente!");
