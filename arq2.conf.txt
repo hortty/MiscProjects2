@@ -1,0 +1,6 @@
+{
+  "extract_text_file": true,
+  "analyze_text_positions": false,
+  "validate_xref_offsets": true,
+  "detect_cycles": true
+}
